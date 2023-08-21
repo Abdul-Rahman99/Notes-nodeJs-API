@@ -1,3 +1,5 @@
+Repository Name: Node.js Notes App
+
 # Description:
 The Node.js Notes App is a simple web application that allows users to create, read, update, and delete notes. It is built using Node.js, Express, and MongoDB, providing a RESTful API for managing notes.
 
@@ -20,7 +22,7 @@ RESTful API: The app follows the principles of Representational State Transfer (
 
 # Installation and Setup:
 
-Clone the repository: git clone https://github.com/username/nodejs-notes-app.git
+Clone the repository: git clone https://github.com/Abdul-Rahman99/Notes-nodeJs-API.git
 Navigate to the project directory: cd nodejs-notes-app
 Install the dependencies: npm install
 Configure the MongoDB connection in the config.js file.
